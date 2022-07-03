@@ -1,1 +1,1 @@
-Prema dogovoru, svoj seminarski rad predajem kao Colab notebook. U HTML formatu ljepše je za čitati i sve je vidljivo. Ako imate potrebu otvarati kod potrebno je otvoriti u Colabu IPYNB datoteku, drag and dropati datasetove tertiary_education, gdp_per_capita i datoteku drzave te sve pokrenuti.
+The seminar paper was submitted as a Colab notebook. The IPYNB file can be run in Google Colab and for correct working it is necessary to insert in Colab two datasets: tertiary_education and gdp_per_capita and drzave file.
