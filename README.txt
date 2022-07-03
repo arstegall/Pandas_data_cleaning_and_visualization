@@ -1,1 +1,1 @@
-The seminar paper was submitted as a Colab notebook. The IPYNB file can be run in Google Colab and for correct working it is necessary to insert in Colab two datasets: tertiary_education and gdp_per_capita and drzave file.
+The seminar paper was submitted as a Colab notebook. The IPYNB file can be run in Google Colab and for correct working it is necessary to insert in Colab two datasets: tertiary_education and gdp_per_capita and drzave file. If you only want to run the code and see the results, you only need to open HTML file.
